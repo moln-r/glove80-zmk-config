@@ -295,86 +295,12 @@
 
         layer_Base {
             bindings = <
-&kp F1
-&kp F2
-&kp F3
-&kp F4
-&kp F5
-&kp F6
-&kp F7
-&kp F8
-&kp F9
-&kp F10
-&kp GRAVE
-&sk LSHIFT GRAVE
-&sk LSHIFT N2
-&sk LSHIFT N3
-&sk LSHIFT N4
-&sk LSHIFT N5
-&sk LSHIFT N6
-&sk LSHIFT N7
-&sk LSHIFT N8
-&kp LBKT
-&sk LSHIFT BSLH
-&kp BSLH
-&kp TAB
-&kp Q
-&kp W
-&kp E
-&kp R
-&kp T
-&kp Y
-&kp U
-&kp I
-&kp O
-&kp P
-&kp RBKT
-&kp LCTRL
-&kp A
-&kp S
-&kp D
-&kp F
-&kp G
-&kp H
-&kp J
-&kp K
-&kp L
-&kp SEMI
-&kp SQT
-&kp LSHFT
-&kp Z
-&kp X
-&kp C
-&kp V
-&kp B
-&kp SPACE
-&kp LSHFT
-&kp LS(LC(TAB))
-&magic LAYER_Magic 0
-&kp RGUI
-&kp RET
-&kp N
-&kp M
-&kp COMMA
-&kp DOT
-&kp FSLH
-&sk LSHIFT RBKT
-&kp ESC
-&sk LSHIFT N1
-&sk LSHIFT MINUS
-&sk LSHIFT N9
-&kp MINUS
-&sk LSHFT
-&lower
-&kp LC(TAB)
-&kp LA(BSPC)
-&kp LGUI
-&kp BSPC
-&kp EQUAL
-&sk LSHIFT N0
-&sk LSHIFT EQUAL
-&sk LSHIFT FSLH
-&kp DEL
+    &kp F1                  &kp F2                  &kp F3               &kp F4               &kp F5                                                                                                                                          &kp F6               &kp F7                  &kp F8                 &kp F9                &kp F10
+ &kp GRAVE  &sk LSHIFT + &kp GRAVE     &sk LSHIFT + &kp N2  &sk LSHIFT + &kp N3  &sk LSHIFT + &kp N4  &sk LSHIFT + &kp N5                                                                                   &sk LSHIFT + &kp N6  &sk LSHIFT + &kp N7  &sk LSHIFT + &kp N8                &kp LBKT  &sk LSHIFT + &kp BSLH               &kp BSLH
+   &kp TAB                   &kp Q                   &kp W                &kp E                &kp R                &kp T                                                                                                 &kp Y                &kp U                &kp I                   &kp O                  &kp P               &kp RBKT
+ &kp LCTRL                   &kp A                   &kp S                &kp D                &kp F                &kp G                                                                                                 &kp H                &kp J                &kp K                   &kp L               &kp SEMI                &kp SQT
+ &kp LSHFT                   &kp Z                   &kp X                &kp C                &kp V                &kp B  &kp SPACE  &kp LSHFT  &kp LS(LC(TAB))  &magic LAYER_Magic 0  &kp RGUI   &kp RET                &kp N                &kp M            &kp COMMA                 &kp DOT               &kp FSLH  &sk LSHIFT + &kp RBKT
+   &kp ESC     &sk LSHIFT + &kp N1  &sk LSHIFT + &kp MINUS  &sk LSHIFT + &kp N9            &kp MINUS                       &sk LSHFT     &lower      &kp LC(TAB)          &kp LA(BSPC)  &kp LGUI  &kp BSPC                                 &kp EQUAL  &sk LSHIFT + &kp N0  &sk LSHIFT + &kp EQUAL  &sk LSHIFT + &kp FSLH                &kp DEL
             >;
         };
 
